@@ -17,7 +17,7 @@ jobs:
             target: ramips
             subtarget: mt76x8
 #            vermagic: "7b067dbe1210780507b9fd888c130426"
-             vermagic: "67528b5c8d6756be2a5d091dd3021d84"
+            vermagic: "67528b5c8d6756be2a5d091dd3021d84"
 
     steps:
       - uses: actions/checkout@v4
